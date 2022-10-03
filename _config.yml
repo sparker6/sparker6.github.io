@@ -1,0 +1,10 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+title: "Susan T. Parker" 
+name: "Susan T. Parker"
+twitter: "sparker"
+twitter_url: "https://twitter.com/sparker"
+github: "sparker6"
+github_url: "https://github.com/sparker6"
+address: "123 Fake St. Ann Arbor MI, 19111"
+email: "sparker@umich.edu"

@@ -1,0 +1,89 @@
+---
+
+---
+
+@import "main";
+@import "./assets/fontawesome/scss/fontawesome.scss";
+@import "./assets/fontawesome/scss/brands.scss";
+
+$primary: #150f60;
+$secondary: #a6a4c3;
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: .90em;
+    max-width: 750px;
+}
+header {
+    border-bottom: 2px $primary solid;
+    padding-bottom: 1.25em;
+}
+
+nav {
+    font-size: small;
+    color: $secondary;
+}
+nav a {
+    font-size: small;
+    color: $secondary;
+    padding-right:5px
+}
+
+h1 {
+    font-weight: 500;
+    color: $primary;
+    margin-bottom: .25em;
+}
+
+.content {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.bio-pic {
+    max-width: 200px;
+    border-style: groove;
+    margin: 1em;
+    padding: 4px;
+    height: 100%
+}
+
+.publication { 
+    margin: 1em;
+}
+
+.publication .journal {
+    font-style: italic;
+}
+
+.publication .title {
+    font-weight: bold;
+    padding-right: 2em;
+}
+
+.publication .description {
+    display: block;
+}
+
+.publication .link a {
+    color: $secondary;
+}
+
+footer {
+    display: flex;
+    flex-direction: row-reverse;
+    border-top: 2px $primary solid;
+}
+.foot-col {
+    width: 50%;
+    color: $secondary;
+}
+.foot-col span {
+    padding: .25em;
+    display: block;
+}
+
+.foot-col span a{
+    color: $secondary;
+}

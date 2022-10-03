@@ -1,0 +1,11 @@
+<h2>Publications</h2>
+{% for pub in site.data.publications %}
+    <div class= "publications">
+        <div class= "publication">
+            <span class="title">{{pub.title}}</span>
+            <span class="journal">{{pub.journal}}</span>
+            <span class="description">{{pub.description}}</span>
+            <span class="link"><a href={{pub.link}}>Link</a></span>
+        </div>
+    </div>
+{% endfor %}

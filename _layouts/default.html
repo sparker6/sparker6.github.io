@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    {% if page.title == "Bio"%}
+      <div class="content">
+        <img class="bio-pic" src="assets/img/parker.jpg"/>
+        {{ content }}
+      </div>
+    {% else %}
+    {% include publications.html %}
+    {% endif %}
+    {% include footer.html %}
+  </body>
+</html>
