@@ -3,8 +3,8 @@
 ---
 
 @import "main";
-@import "/assets/fontawesome/scss/fontawesome.scss";
-@import "/assets/fontawesome/scss/brands.scss";
+@import "../assets/fontawesome/scss/fontawesome.scss";
+@import "../assets/fontawesome/scss/brands.scss";
 
 $primary: #150f60;
 $secondary: #a6a4c3;
@@ -36,17 +36,13 @@ h1 {
     margin-bottom: .25em;
 }
 
-.content {
-    display: flex;
-    flex-direction: row-reverse;
-}
-
 .bio-pic {
     max-width: 200px;
     border-style: groove;
     margin: 1em;
-    padding: 4px;
-    height: 100%
+    padding: 2px;
+    float: right;
+    width: 100%;
 }
 
 .publication { 
