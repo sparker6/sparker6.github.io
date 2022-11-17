@@ -1,9 +1,16 @@
-- title: "Paper Title Here"
-  journal: "Journal of Gun Crimes"
+- title: "The Emerging Infrastructure of US Firearms Injury Data""
+  journal: "Preventive Medicine"
   link: "http://journal.com"
   description: "Dolorem dolore eum et similique sit veritatis. Praesentium inventore iusto qui qui iure et. Eaque qui fugit accusamus distinctio saepe cum quo illum. Quia quasi qui laudantium magnam pariatur ex. Maiores voluptates corrupti quidem perspiciatis nesciunt necessitatibus."
 
-- title: "Different Paper"
-  journal: "Health Econ"
+- title: "Measuring gun violence in police data sources: transitioning to NIBRS"
+  journal: "Injury Epidemiology"
   link: "http://journalOfHealthEcon.com"
   description: "Dolorem dolore eum et similique sit veritatis. Praesentium inventore iusto qui qui iure et. Eaque qui fugit accusamus distinctio saepe cum quo illum. Quia quasi qui laudantium magnam pariatur ex. Maiores voluptates corrupti quidem perspiciatis nesciunt necessitatibus."
+
+- title: "Reducing Misuse of Handguns by Rural Youth -- Focus on the Parents" 
+  journal: "JAMA Network-Open"
+  link: "link here" 
+  description: "description"
+
+- title: "Domestic Violence Injuries During the Covid-19 Pandemic: Evidence from Medical Records" 
