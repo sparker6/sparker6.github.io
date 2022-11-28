@@ -8,10 +8,10 @@
   link: "https://link.springer.com/article/10.1186/s40621-022-00376-8"
   description: "The majority of gun violence in the United States does not result in physical injury and therefore cannot be completely measured using hospital data. To measure the full scope of gun violence, the nation’s crime reporting systems that collect police reports of crimes committed with a firearm are vital. However, crime data reporting conventions may underestimate gun violence in the U.S. This paper compares crime data sources to assess underestimation of gun violence."
 
-- title: "Reducing Misuse of Handguns by Rural Youth -- Focus on the Parents" 
+- title: "Estimating Nonfatal Firearm Injury Locations using Natural Language Processing and Machine Learning Methods"
   journal: "JAMA Network-Open"
-  link: "With Philip J. Cook" 
-  description: "description"
+  link: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2771451"
+  description: "This cross-sectional study of 22 years of data from the National Electronic Injury Surveillance System Firearm Injury Surveillance Study used natural language processing of unstructured medical text combined with machine learning models to classify the location of nonfatal gunshot injuries. Contrary to existing national estimates of these injuries that indicate they occur most often in homes, this analysis found that these injuries occur most often in the street or highway."
 
 - title: "Domestic Violence Injuries During the Covid-19 Pandemic: Evidence from Medical Records"
   journal: Working Paper
@@ -20,3 +20,6 @@
 
 - title: "The Effects of Permitless Carry Adoption on Crime (Job Market Paper)" 
   journal: Working Paper
+  link: "forthcoming!"
+  description: "In the last ten years, one of the most substantial changes in firearm policy is the widespread adoption of permitless carry. Since 2010, twenty-two states have adopted a permitless carry law. Permitless carry policies allow firearm owners to carry a concealed handgun in public without first obtaining a license and undergoing a background check. The effects of permitless carry on violent crime, specifically gun crime, are not known. This paper examines the effects of permitless carry laws using detailed data from the nation’s new crime reporting system, the National Incident Based Reporting System (NIBRS) to investigate whether permitless carry policies affect violent crime and firearm victimization. Results from difference-in-differences estimators using agency-month observations suggest that violent crime increases in the subsequent months following policy adoption without reductions in other types of crime. This rapid increase is driven by gun assaults that occur in public places and results in additional firearm injury. Substantial reductions in police enforcement of weapons laws may reduce the barriers to carrying firearms in public." 
+"
