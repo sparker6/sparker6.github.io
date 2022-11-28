@@ -1,7 +1,7 @@
 - title: "The Emerging Infrastructure of US Firearms Injury Data"
   journal: "Preventive Medicine"
   link: "https://www.sciencedirect.com/science/article/abs/pii/S0091743522001785"
-  description: "For every fatal shooting in the United States, detailed information from reports of coroners or medical examiners, police departments, and other sources is recorded in the National Violent Death Reporting System. There is no such system in place for nonfatal shootings, which far outnumber fatalities. We discuss additional reforms needed to generate timely, accurate, publicly accessible data from hospitals and police."
+  description: "With Catherine Barber and Philip J. Cook. For every fatal shooting in the United States, detailed information from reports of coroners or medical examiners, police departments, and other sources is recorded in the National Violent Death Reporting System. There is no such system in place for nonfatal shootings, which far outnumber fatalities. We discuss additional reforms needed to generate timely, accurate, publicly accessible data from hospitals and police."
 
 - title: "Measuring gun violence in police data sources: transitioning to NIBRS"
   journal: "Injury Epidemiology"
@@ -10,13 +10,13 @@
 
 - title: "Reducing Misuse of Handguns by Rural Youth -- Focus on the Parents" 
   journal: "JAMA Network-Open"
-  link: "" 
+  link: "With Philip J. Cook" 
   description: "description"
 
 - title: "Domestic Violence Injuries During the Covid-19 Pandemic: Evidence from Medical Records"
   journal: Working Paper
   link: "https://github.com/sparker6/sparker6.github.io/tree/master/assets/paper_pdfs/DV_COVID_Paper_Draft.pdf"
-  description: "We use medical claims data to estimate the extent to which emergency department visits by women for assault and abuse injuries changed during the COVID-19 pandemic. We find that while overall emergency department use by female assault patients decreased, severely injured patients continued to seek medical treatment for injuries, particularly in cases of assaults with guns."   
+  description: "With Lauren Gilbert and Lauren Schechter. We use medical claims data to estimate the extent to which emergency department visits by women for assault and abuse injuries changed during the COVID-19 pandemic. We find that while overall emergency department use by female assault patients decreased, severely injured patients continued to seek medical treatment for injuries, particularly in cases of assaults with guns."   
 
 - title: "The Effects of Permitless Carry Adoption on Crime (Job Market Paper)" 
   journal: Working Paper
