@@ -14,12 +14,16 @@
   description: "This cross-sectional study of 22 years of data from the National Electronic Injury Surveillance System Firearm Injury Surveillance Study used natural language processing of unstructured medical text combined with machine learning models to classify the location of nonfatal gunshot injuries. Contrary to existing national estimates of these injuries that indicate they occur most often in homes, this analysis found that these injuries occur most often in the street or highway."
 
 - title: "Domestic Violence Injuries During the Covid-19 Pandemic: Evidence from Medical Records"
-  journal: Working Paper
+  journal: "Working Paper"
   link: "https://github.com/sparker6/sparker6.github.io/tree/master/assets/paper_pdfs/DV_COVID_Paper_Draft.pdf"
   description: "With Lauren Gilbert and Lauren Schechter. We use medical claims data to estimate the extent to which emergency department visits by women for assault and abuse injuries changed during the COVID-19 pandemic. We find that while overall emergency department use by female assault patients decreased, severely injured patients continued to seek medical treatment for injuries, particularly in cases of assaults with guns."   
 
-- title: "The Effects of Permitless Carry Adoption on Crime (Job Market Paper)" 
-  journal: Working Paper
-  link: "forthcoming!"
-  description: "In the last ten years, one of the most substantial changes in firearm policy is the widespread adoption of permitless carry. Since 2010, twenty-two states have adopted a permitless carry law. Permitless carry policies allow firearm owners to carry a concealed handgun in public without first obtaining a license and undergoing a background check. The effects of permitless carry on violent crime, specifically gun crime, are not known. This paper examines the effects of permitless carry laws using detailed data from the nation’s new crime reporting system, the National Incident Based Reporting System (NIBRS) to investigate whether permitless carry policies affect violent crime and firearm victimization. Results from difference-in-differences estimators using agency-month observations suggest that violent crime increases in the subsequent months following policy adoption without reductions in other types of crime. This rapid increase is driven by gun assaults that occur in public places and results in additional firearm injury. Substantial reductions in police enforcement of weapons laws may reduce the barriers to carrying firearms in public." 
-"
+- title: "A comparative analysis of crime guns"
+  journal: "The Russell Sage Foundation Journal of the Social Sciences"
+  link: "https://www.rsfjournal.org/content/3/5/96.abstract"
+  description: "With Megan E. Collins, Thomas L. Scott and Charles F. Wellford. Information is limited on how firearms move from legal possession to illegal possession and use in criminal activities, largely because of data collection capacity and a lack of recent, exhaustive recovery data across jurisdictions. This article includes both an analysis of firearms trace data and prisoner interviews across multiple jurisdictions: New Orleans, Louisiana, Prince George’s County, Maryland, and Chicago, Illinois. Findings indicate that recoveries and trace successes vary across jurisdictions and by type of crime."
+
+- title: "Sources of guns to dangerous people: what we learn by asking them"
+  journal: "Preventive Medicine"
+  link: "https://www.sciencedirect.com/science/article/abs/pii/S0091743515001486"
+  description: "With Philip J. Cook and Harold A. Pollack. This paper contributes original empirical data on the gun transactions that arm offenders in Chicago. Conducted in the fall of 2013, data come from of an open-ended survey of 99 inmates of Cook County Jail that focused on a subset of violence-prone individuals with access to firearms. Respondents obtain most of their guns from their social network of personal connections. Rarely is the proximate source either direct purchase from a gun store, or theft.
