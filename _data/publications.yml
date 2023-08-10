@@ -14,7 +14,7 @@
   description: "This cross-sectional study of 22 years of data from the National Electronic Injury Surveillance System Firearm Injury Surveillance Study used natural language processing of unstructured medical text combined with machine learning models to classify the location of nonfatal gunshot injuries. Contrary to existing national estimates of these injuries that indicate they occur most often in homes, this analysis found that these injuries occur most often in the street or highway."
 
 - title: "Domestic Violence Injuries During the Covid-19 Pandemic: Evidence from Medical Records"
-  journal: "Working Paper"
+  journal: "Under Review" 
   link: "https://github.com/sparker6/sparker6.github.io/tree/master/assets/paper_pdfs/DV_COVID_Paper_Draft.pdf"
   description: "With Lauren Gilbert and Lauren Schechter. We use medical claims data to estimate the extent to which emergency department visits by women for assault and abuse injuries changed during the COVID-19 pandemic. We find that while overall emergency department use by female assault patients decreased, severely injured patients continued to seek medical treatment for injuries, particularly in cases of assaults with guns."   
 
