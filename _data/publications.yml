@@ -1,3 +1,13 @@
+- title: "Supervised Natural Language Processing Classification of Violent Death Narratives: Development and Assessment of a Compact Large Language Model."
+  journal: "JMIR AI"
+  link: "https://ai.jmir.org/2025/1/e68212/"
+  description: "Using simulations, this paper assesses supervised classification of violent death narratives using a compact LLM to inform future applications of natural language processing (NLP) to NVDRS."
+
+- title: "The Association Between Concealed Handgun License Laws and Concealed Handgun License Adoption, 2002-2019."
+  journal: "American Journal of Preventive Medicine"
+  link: "https://www.ajpmonline.org/article/S0749-3797(24)00246-0/fulltext"
+  description: "This paper examines how changes in concealed carry licensing laws influenced the rate of concealed handgun licenses issued and denied between 2002 and 2019."
+
 - title: "The impact of the COVID-19 pandemic on treatment for domestic violence injuries: evidence from medical claims"
   journal: "Review of Economics of the Household"
   link: "https://link.springer.com/article/10.1007/s11150-024-09696-8"
