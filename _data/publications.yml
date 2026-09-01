@@ -1,3 +1,8 @@
+- title: "Jumping the Gun: The Effect of Permitless Concealed Carry Laws on Crime."
+  journal: "Journal of Policy Analysis and Management"
+  link: "https://doi.org/10.1002/pam.70123"
+  description: "In the last decade, one of the most substantial changes to firearm policy is the widespread adoption of permitless concealed carry laws. Permitless carry laws allow firearm owners to carry a concealed handgun in public without first obtaining a license and undergoing a background check. This article estimates the causal impact of permitless carry laws on crime using stacked event study estimators. I find that violent crime increases by 7% in the 12 months following the law's adoption and no evidence of offsetting deterrence in property crime."
+
 - title: "Supervised Natural Language Processing Classification of Violent Death Narratives: Development and Assessment of a Compact Large Language Model."
   journal: "JMIR AI"
   link: "https://ai.jmir.org/2025/1/e68212/"
